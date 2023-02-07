@@ -1,3 +1,3 @@
 ﻿# VideoSearch
 
-## 🎉 A console app for searching online video built with c#.
+## 🎉 A console app built with c# for searching online video.
